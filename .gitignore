@@ -1,3 +1,10 @@
+# Ignore targe folder
+target
+
+# Ignore IDE Settings
+.idea
+.DS_STORE
+
 # Compiled class file
 *.class
 
